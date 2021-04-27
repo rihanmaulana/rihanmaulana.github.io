@@ -397,6 +397,24 @@ body {
         width: 100%;
         margin-top: -97px;
     }
+    
+    .batasatas,
+    .batasatas img {
+        width: 100%;
+        margin-top: -97px;
+    }
+    
+    .batastengah,
+    .batastengah img {
+        width: 100%;
+        margin-top: -97px;
+    }
+    
+    .batasbagianbawah,
+    .batasbagianbawah img {
+        width: 100%;
+        margin-top: -97px;
+    }
 
     .aboutme {
         background-color: #5243AC;
